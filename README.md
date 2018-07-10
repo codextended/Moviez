@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/Bfa3MaS.gif' width="600" />
+<img src='https://i.imgur.com/Bfa3MaS.gif' width="300" />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
