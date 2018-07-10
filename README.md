@@ -1,4 +1,16 @@
-In landscape mode, the rotated alternate layout should use the backdrop image instead and show the title and movie overview to the right of it.
+# Moviez
+ Moviez is an android app that allows you to verify the now playing movies in theater.
+Submitted by: **Smath Cadet**
+
+## User Stories
+
+The following **required** functionality are completed:
+
+* [x] User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
+* [x] Lists should be fully optimized for performance using the ViewHolder pattern to cache view lookups within the adapter.
+* [x] Views should be responsive for both landscape/portrait mode. 
+*In portrait mode, the poster image, title, and movie overview is shown.
+*In landscape mode, the rotated alternate layout should use the backdrop image instead and show the title and movie overview to the right of it.
 
 The following **optional** features are implemented:
 
